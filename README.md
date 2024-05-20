@@ -1,4 +1,4 @@
-### Olá, Eu sou Eduardo Augusto 👋
+### Hello, I'm Eduardo Augusto 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-de-medeiros-silva-976062144/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duds.augusto/)
