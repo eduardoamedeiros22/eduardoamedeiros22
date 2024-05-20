@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoamedeiros22&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia
+## technologies that I use in my work and projects 
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
